@@ -1,0 +1,38 @@
+
+    body {
+      background-color: blueviolet;
+    }
+
+    p {
+      margin-left: 36%;
+      border: 5px solid black;
+      width: 290px;
+      height: 45px;
+      background-color: antiquewhite;
+    }
+
+    #game-container {
+      border: 6px solid rgb(255, 47, 106);
+      width: 300px;
+      text-align: center;
+      background-color: aqua;
+      border-radius: 10px;
+      margin-left: 35%;
+
+    }
+
+    h1 {
+      margin: 10px;
+    }
+
+    .btn {
+      width: 60px;
+      height: 60px;
+      margin: 5px;
+      background-color: bisque;
+      border-radius: 20px;
+      border: 2px dotted purple;
+
+    }
+  
+
